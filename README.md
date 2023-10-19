@@ -11,3 +11,6 @@
 2. Find all the public repositories for a user.
 3. Search for a repository
 
+### Demo
+
+- [Live Link](https://glistening-panda-b10df0.netlify.app/)
